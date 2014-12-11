@@ -1,0 +1,63 @@
+.tabela {
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+	font-size: 12px;
+	border-right: 1px solid;
+	border-bottom: 1px solid;
+	width:780px;
+}
+
+.tabela tr {
+}
+
+.tabela th {
+	border-top: 1px solid black;
+	border-left: 1px solid black;
+	text-align: center;
+	font-size: 14px;
+	vertical-align: bottom;
+	background-color: silver;	
+}
+
+.tabela td {
+	border-top: 1px solid;
+	border-left: 1px solid;
+	text-align: center;
+	vertical-align: middle;
+	padding: 2px;
+}
+
+.titulo {
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+	font-size: 30px;
+	font-style: bold;
+	background-color: silver;
+	width: 350px;
+	text-align: center;
+}
+
+.botao {
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+	font-size: 14px;	
+	width: 100px;
+	background-color: gray;
+	border: 1px solid black;
+}
+
+.etiqueta {
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+	font-size: 14px;	
+}
+
+.campo {
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+	font-size: 14px;
+	border: 1px solid black;
+}
+
+.campoDesativado {
+	font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+	font-size: 14px;
+	width: 48px;
+	background-color: #ddd;
+	border: 1px solid black;
+}
